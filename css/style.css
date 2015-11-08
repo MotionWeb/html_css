@@ -1,0 +1,34 @@
+body {
+	background-image: url("../imagenes/Cover-png.png");
+
+}
+head{
+
+}
+.logo{
+	
+	padding: 2%;
+	width: 15%;
+}
+.menu ul{
+	list-style: none;
+	float: left;
+	padding: 2%;
+	width: 60%;
+}
+.menu ul li{
+	float: left;
+	margin-left: 8%;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: white;
+	font-family: verdana;
+}
+.menu ul li a:hover{
+	color: orange;
+}
+.left{
+	float: left;
+	
+}
