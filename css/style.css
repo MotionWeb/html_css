@@ -1,9 +1,10 @@
 body {
-	background-image: url("../imagenes/Cover-png.png");
+	margin: 0px;
+	padding: 0px;
 
 }
 head{
-
+	margin: 0px;
 }
 .logo{
 	
@@ -31,4 +32,28 @@ head{
 .left{
 	float: left;
 	
+}
+.nosotros{
+	background-image: url("../imagenes/Cover-png.png");
+	width: 1200px;
+	height: 738px;
+	margin: 0px;
+	
+
+
+}
+.servicios{
+	text-align: center;
+	font-size: 50px;
+}
+.blue{
+	color: #317a9b;
+	text-align: center;
+	font-size: 50px;
+}
+.clientes{
+
+}
+.contacto{
+
 }
