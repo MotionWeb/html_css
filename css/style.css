@@ -34,7 +34,7 @@ header div img{
 	width: 60%;
 }
 .menu ul li{
-	float: left;
+	display: inline;
 	margin-left: 8%;
 }
 .menu ul li a{
